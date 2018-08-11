@@ -1,0 +1,12 @@
+9.3
+9.3-alpine
+9.4
+9.4-alpine
+9.5
+9.5-alpine
+9.6
+9.6-alpine
+10.5
+10.5-alpine
+11
+11-alpine
